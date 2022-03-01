@@ -30,7 +30,7 @@
 
 <p align=center>
    <code>
-     
+     <!--
       <a href="https://code.visualstudio.com/" target="_blank"> <img src="" alt="vscode" width="40"/>
      </a>
      
@@ -47,6 +47,8 @@
     <a href="https://archlinux.org/" target="_blank"> <img src="" alt="Arch" width="40"/> </a>
     <a href="https://getfedora.org/" target="_blank"> <img src="" alt="Fedora" width="40"/> </a>
     <a href="https://www.kali.org/" target="_blank"> <img src="" alt="Kali" width="40"/> </a>
+
+-->
     
     
  </code>
